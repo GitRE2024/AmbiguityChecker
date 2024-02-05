@@ -3,7 +3,7 @@ The ambiguity checker prototype automatically classifies English natural languag
 
 ##Context:.
 
-Requirement engineers need to evaluate and answer customer requirements in a short time. The analysis of the requirements is extensive and time-consuming as it implies analysing hundreds of requirements per project. One of the phases of the analysis is to check for ambiguity in the given requirement text as in real-life contexts requirements can be abstract or ambiguous, i.e., they can be interpreted in more than one way.  The overall goal is to support the requirement engineer experts by automatically analysing and classifying the requirements in terms of their ambiguity. Furthermore, working towards explainable AI–, the models provide the reasons why the requirements were thus classified. 
+Requirement engineers need to evaluate and answer customer requirements in a short time. The analysis of the requirements is extensive and time-consuming as it implies analysing hundreds of requirements per project. One of the phases of the analysis is to check for ambiguity in the given requirement text as in real-life contexts requirements can be abstract or ambiguous, i.e., they can be interpreted in more than one way.  The overall goal is to support the requirement engineer experts by automatically analysing and classifying the requirements in terms of their ambiguity. Furthermore, working towards explainable AI, the models provide the reasons why the requirements were thus classified. 
 
 ##Key Features:
 
